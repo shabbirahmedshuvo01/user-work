@@ -34,6 +34,14 @@ const Events = () => {
                         </div>
                     </div>
                 </div>
+                <div className='mx-10 p-1'>
+                    <div className="card w-96 h-28 bg-base-200 rounded-none hover:bg-slate-300">
+                        <div className="card-body">
+                            <p className='flex justify-around'><span className='mr-16'>EVT0001: Chennai</span> <span><span>09-01-23</span> <span>13:37:13</span></span></p>
+                            <p className='text-start'>person detechted</p>
+                        </div>
+                    </div>
+                </div>
             </section>
         </div>
     );

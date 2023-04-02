@@ -7,7 +7,7 @@ const Home = () => {
     return (
         <div className='flex justify-between'>
 
-            <section>
+            <section className='mt-10'>
                 <Sidebar />
             </section>
 
